@@ -52,3 +52,7 @@ python run.py --episode 1 --vfilter deinterlace
 ```
 
 Note: Pour une vérification moins longue, il est conseillé d'exécuter la commande `python run.py --part g_debut --vfilter deinterlace`
+
+
+# Clause de non-responsabilité et absence de garantie
+Se référer au paragraphe 11 et 12 de la licence attachée au projet (GPL v2). Une traduction non officielle est disponible sur le site de l'[APRIL](https://www.april.org/gnu/gpl_french.html)
